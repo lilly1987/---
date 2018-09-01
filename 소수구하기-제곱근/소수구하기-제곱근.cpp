@@ -35,6 +35,7 @@ int main()
 
 	} while (n%j!=0);
 
+	cout << "¼Ò¼ö ¾Æ´Ô";
 	return 0;
 }
 
